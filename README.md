@@ -19,7 +19,12 @@
   docker-compose up -d
 ```
 
-5. Levantar la aplicación en modo desarrollo
+6. Ejecutar SEED
+```
+  http://localhost:3000/api/seed
+```
+
+7. Levantar la aplicación en modo desarrollo
 ```
   yarn start:dev
 ```
